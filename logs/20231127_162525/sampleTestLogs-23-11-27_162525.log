@@ -1,0 +1,7 @@
+[2023-11-27 16:25:25] [INFO   ] Generating Test Report 
+[2023-11-27 16:25:26] [INFO   ] Setting up the browser... 
+[2023-11-27 16:25:34] [INFO   ] Started measuring time 2023-11-27T10:55:34.593548882Z 
+[2023-11-27 16:25:34] [INFO   ] Executing tc_01_Login Test Cases 
+[2023-11-27 16:25:34] [INFO   ] Clicking on the Sign In with Google button 
+[2023-11-27 16:25:36] [INFO   ] tc_01_Login Test Cases Execution Completed 
+[2023-11-27 16:25:36] [INFO   ] Time elapsed - [In milli-seconds: 1625] [In seconds:1.625] 

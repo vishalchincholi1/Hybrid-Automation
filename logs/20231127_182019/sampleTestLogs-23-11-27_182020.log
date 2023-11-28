@@ -1,0 +1,10 @@
+[2023-11-27 18:20:20] [INFO   ] Generating Test Report 
+[2023-11-27 18:20:20] [INFO   ] Fetching data from the data provider 'EG_login' 
+[2023-11-27 18:20:23] [INFO   ] Setting up the browser... 
+[2023-11-27 18:20:31] [INFO   ] Started measuring time 2023-11-27T12:50:31.876305800Z 
+[2023-11-27 18:20:31] [INFO   ] Executing tc_01_Login Test Cases 
+[2023-11-27 18:20:31] [INFO   ] Entering User ID 
+[2023-11-27 18:20:32] [INFO   ] Entering password 
+[2023-11-27 18:20:32] [INFO   ] Clicking on the log in button 
+[2023-11-27 18:20:34] [INFO   ] tc_01_Login Test Cases Execution Completed 
+[2023-11-27 18:20:34] [INFO   ] Time elapsed - [In milli-seconds: 2595] [In seconds:2.595] 

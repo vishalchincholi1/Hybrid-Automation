@@ -1,0 +1,9 @@
+[2023-11-27 17:12:24] [INFO   ] Generating Test Report 
+[2023-11-27 17:12:25] [INFO   ] Setting up the browser... 
+[2023-11-27 17:12:33] [INFO   ] Started measuring time 2023-11-27T11:42:33.674757043Z 
+[2023-11-27 17:12:33] [INFO   ] Executing tc_01_Login Test Cases 
+[2023-11-27 17:12:33] [INFO   ] Entering User ID 
+[2023-11-27 17:12:33] [INFO   ] Entering password 
+[2023-11-27 17:12:34] [INFO   ] Clicking on the log in button 
+[2023-11-27 17:12:36] [INFO   ] tc_01_Login Test Cases Execution Completed 
+[2023-11-27 17:12:36] [INFO   ] Time elapsed - [In milli-seconds: 2343] [In seconds:2.343] 
